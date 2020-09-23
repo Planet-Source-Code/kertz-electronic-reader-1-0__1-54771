@@ -1,0 +1,16 @@
+Electronic Reader Copyright (c) 2004 By Amal R S
+All rights reserved.
+--------------------------------------------------------
+License Agreement
+
+Please carefully read the terms and conditions that follow before using this software. Your use of this software indicates your acceptance of this license agreement.
+-----------------------------------------------------------------------------------------------------------------------
+Use and Registration
+
+This software is provided as freeware with the whole source code.  You are not allowed to distribute or sell, this program or any portion of it without the written permission from the copyright owner.
+------------------------------------------------------------------------------------------------------------------------
+Disclaimer of Warranty
+
+THIS SOFTWARE IS SOLD 'AS IS' AND WITHOUT WARRANTY OF ANY KIND.  THE USER MUST ASSUME THE ENTIRE RISK OF USING THIS PROGRAM.
+---------------------------------------------------------------------------------------------------------------------------
+Copyright (c) 2003 By Amal R S
